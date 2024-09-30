@@ -8,7 +8,7 @@ These are the quotes sometimes given when your character goes to sleep during th
 ### macOS
 For the particular version of fortune-mod I've installed, it required files to be found in `/usr/local/share/games/fortunes/` ... so copy the `valheim` and `valheim.dat` files in there.
 
-If you've installed the Homebrew version of fortune-mod, then you'll likely need to copy them into `/opt/homebrew/usr/local/share/games/fortunes/` ... or perhaps somewhere else under the `/opt/homebrew/usr/` tree... 
+If you've installed the Homebrew version of fortune-mod, then you'll likely need to copy them into `/opt/homebrew/share/games/fortunes/` ... I don't personally use homebrew but it seems popular.
 
 ### Linux
 As per the initial Mac instructions above, copy the `valheim` and `valheim.dat` files to `/usr/local/share/games/fortunes/`
